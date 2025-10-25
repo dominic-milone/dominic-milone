@@ -13,6 +13,11 @@
 - � Security: CTF Challenges (HackTheBox, TryHackMe)
 - 📚 Learning: Network Security, System Administration
 
+## Projects
+- 🔒 Security Lab — A collection of CTF challenge solutions and security tools
+- 🐧 Linux Scripts — Automation scripts for system administration tasks
+- 🔍 Network Scanner — Simple network scanning tool built with Python
+
 ## Connect With Me
 - 🌐 GitHub: [dominic-milone](https://github.com/dominic-milone)
 
